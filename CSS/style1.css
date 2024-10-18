@@ -1,0 +1,16 @@
+body{
+    font-family: "Courier New";
+    background-color: #b8860b;
+    text-align: center;
+}
+h1  {
+    color: #1a5276;
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+}
+button{
+    background-color: #48c9b0;
+    font-size: 20px;
+}
